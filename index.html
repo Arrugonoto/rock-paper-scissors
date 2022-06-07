@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>rock-paper-scissors game</title>
+    <link rel="stylesheet" href="./index.css" />
+  </head>
+  <body>
+    <div class="difficulty-levels-container">
+      <h2>Choose a difficulty level</h2>
+      <div class="levels-wrapper">
+        <div class="select-difficulty easy" id="easy">
+          <h3>Easy</h3>
+          <p>Win 3 times</p>
+        </div>
+        <div class="select-difficulty medium" id="medium">
+          <h3>Medium</h3>
+          <p>Win 6 times</p>
+        </div>
+        <div class="select-difficulty expert" id="expert">
+          <h3>Expert</h3>
+          <p>Win 10 times</p>
+        </div>
+      </div>
+    </div>
+    <section class="section-center">
+      <header>
+        <h1>Rock Paper Scissors</h1>
+      </header>
+      <div class="score-board">
+        <div class="badge user-label" id="user-label">user</div>
+        <div class="badge computer-label" id="computer-label">computer</div>
+        <span id="user-score">0</span>:<span id="computer-score">0</span>
+      </div>
+      <div class="result">
+        <p></p>
+      </div>
+      <div class="choices-container">
+        <div class="choice" id="rock">
+          <img src="./images/rock.png" alt="" class="img-choice" />
+        </div>
+        <div class="choice" id="paper">
+          <img src="./images/paper.png" alt="" class="img-choice" />
+        </div>
+        <div class="choice" id="scissors">
+          <img src="./images/scissors.png" alt="" class="img-choice" />
+        </div>
+      </div>
+      <div>
+        <p class="round-text">Round: <span class="round-number"></span></p>
+        <button class="btn-reset">restart game</button>
+      </div>
+    </section>
+    <div class="hide-background"></div>
+    <script src="./app.js"></script>
+  </body>
+</html>
