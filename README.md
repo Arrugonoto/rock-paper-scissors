@@ -4,10 +4,10 @@
 
 
 ### Prequisites :books:
-  __1.__ Basic knowledge and understanding of HTML(5)
-  __2.__  Basic knowledge and udnerstanding of CSS(3)
-  __3.__  Basic knowledge and understanding of JavaScript
-  __4.__  Knowledge about functional programming
+  __ 1. __ Basic knowledge and understanding of HTML(5)
+  __ 2. __  Basic knowledge and udnerstanding of CSS(3)
+  __ 3. __  Basic knowledge and understanding of JavaScript
+  __ 4. __  Knowledge about functional programming
 
 #### Description
   It's simple project about rock-paper-scissors game made for learning JS and functional programming purpose. Project is fully complete, fetch repository and run in browser.
