@@ -10,18 +10,16 @@
   4. Knowledge of functional programming
 
 #### Description
-  It's simple project about rock-paper-scissors game made for learning JS and functional programming purpose. Project is fully complete, fetch repository and run.
+  It's simple project about rock-paper-scissors game made for learning JS and functional programming purpose. Project is fully complete, fetch repository and run in browser.
   
 #### What is included in the project: 
 * Simple system of difficulty
 * Counter of rounds
 
-<p align="center">
-![choose-difficultypng](https://user-images.githubusercontent.com/90615223/172647109-6b6a4219-21fb-4b50-be08-75169425f5ab.png)
-</p>
 
+#### Soem of in-game screens
+![choose-difficultypng](https://user-images.githubusercontent.com/90615223/172647109-6b6a4219-21fb-4b50-be08-75169425f5ab.png)
 
 ![how-works](https://user-images.githubusercontent.com/90615223/172647152-014d6399-1728-4ef5-9086-2994eda6584a.png)
-
 
 ![you-won](https://user-images.githubusercontent.com/90615223/172647174-0a0918ac-c3c7-4977-b17d-cfd07c4acba2.png)
