@@ -12,7 +12,7 @@
 #### Description
   It's simple project about rock-paper-scissors game made for learning JS and functional programming purpose. Project is fully complete, fetch repository and run in browser.
   
-#### What is included in the project: 
+#### What is included in the project:grey_question: 
 * Simple system of difficulty
 * Counter of rounds
 
