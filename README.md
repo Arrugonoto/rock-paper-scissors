@@ -17,9 +17,10 @@
 * Counter of rounds
 
 
-#### Soem of in-game screens
-![choose-difficultypng](https://user-images.githubusercontent.com/90615223/172647109-6b6a4219-21fb-4b50-be08-75169425f5ab.png)
+#### Some of in-game screens
 
-![how-works](https://user-images.githubusercontent.com/90615223/172647152-014d6399-1728-4ef5-9086-2994eda6584a.png)
+![choose-difficultypng](https://user-images.githubusercontent.com/90615223/172650351-c5a297ef-7229-46ed-bece-4db7b6ef9fb8.png)
 
-![you-won](https://user-images.githubusercontent.com/90615223/172647174-0a0918ac-c3c7-4977-b17d-cfd07c4acba2.png)
+![how-works](https://user-images.githubusercontent.com/90615223/172650410-7b98c4bc-4afc-45d5-85e1-03de6ab570ec.png)
+
+![you-won](https://user-images.githubusercontent.com/90615223/172650437-3aabdf78-4cf6-49b6-8988-2e3559030de3.png)
