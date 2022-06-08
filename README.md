@@ -18,9 +18,6 @@
 
 
 #### Some of in-game screens
-
-![choose-difficultypng](https://user-images.githubusercontent.com/90615223/172650351-c5a297ef-7229-46ed-bece-4db7b6ef9fb8.png)
-
-![how-works](https://user-images.githubusercontent.com/90615223/172650410-7b98c4bc-4afc-45d5-85e1-03de6ab570ec.png)
-
-![you-won](https://user-images.githubusercontent.com/90615223/172650437-3aabdf78-4cf6-49b6-8988-2e3559030de3.png)
+![choose-difficultypng](https://user-images.githubusercontent.com/90615223/172651576-6f1190c2-6360-4361-b668-d854b2e61749.png)
+![how-works](https://user-images.githubusercontent.com/90615223/172651631-ce00fcee-fb9a-4861-827d-dc2b49374a46.png)
+![you-won](https://user-images.githubusercontent.com/90615223/172651650-f2c68a8c-c8b8-46ef-afdb-a5f22b368286.png)
