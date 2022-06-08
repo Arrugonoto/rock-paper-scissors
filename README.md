@@ -9,3 +9,10 @@
   3. Basic knowledge and understanding of JavaScript
   4. Knowledge of functional programming
 
+#### Description
+  It's simple project about rock-paper-scissors game made for learning JS and functional programming purpose. Project is fully complete, fetch repository and run.
+  
+#### What is included in the project: 
+* Simple system of difficulty
+* Counter of rounds
+
