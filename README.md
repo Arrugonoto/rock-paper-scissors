@@ -16,8 +16,9 @@
 * Simple system of difficulty
 * Counter of rounds
 
-
+<p align="center">
 ![choose-difficultypng](https://user-images.githubusercontent.com/90615223/172647109-6b6a4219-21fb-4b50-be08-75169425f5ab.png)
+</p>
 
 
 ![how-works](https://user-images.githubusercontent.com/90615223/172647152-014d6399-1728-4ef5-9086-2994eda6584a.png)
