@@ -2,6 +2,8 @@
 
 [![hero](https://user-images.githubusercontent.com/90615223/172643367-474a5f7a-c9e4-4de4-baa7-3c0552a51bb7.png)](https://arrugonoto.github.io/rock-paper-scissors/)
 
+#### Live demo :point_right: https://arrugonoto.github.io/rock-paper-scissors
+
 
 ### Prequisites :books:
   1. Basic knowledge and understanding of HTML(5)
